@@ -32,7 +32,7 @@
 
   ## Motivation
 
-  Taking the stairs too success.    
+  Taking the stairs to success.    
 
   ---
 
